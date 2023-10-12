@@ -1,10 +1,4 @@
-```{r, echo=FALSE}
-library(ggplot2) # for plotting
-library(plotly)  # for interactive plotting
-library(dplyr)   # for filtering
-#library("magrittr") # managing sematics
-library("DT") # for interactive tables
-```
+
 
 ## Comparing Diamond Prices by Carat Across Different Cut Qualities {.tabset}
 
